@@ -1,0 +1,1 @@
+This is a VR 3D painting app similar to Google's Tilt Brush. It is meant to be used with a Qualysis motion capture system. Features include a 3D color picker, a material library, and a layer system similar to Photoshop's.
